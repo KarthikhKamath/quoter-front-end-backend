@@ -1,6 +1,6 @@
 Deployed Link : https://quoterr.netlify.app/
 
-..................................................................................................................
+
 
 
 ![image](https://user-images.githubusercontent.com/74257697/219310304-ce9ce0bc-d3bc-4e1e-8506-b755913631e9.png)
