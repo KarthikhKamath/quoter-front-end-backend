@@ -1,0 +1,26 @@
+*{
+    font-family: poppins;
+}
+
+.welcome{
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin: 150px auto 0 auto;
+    text-align: center;
+
+}
+.adduser{
+    font-weight: 800;
+    font-size: 120px;
+}
+@media only screen and (max-width: 600px) {
+    .welcome {
+      font-size: 50px;
+    }
+    .adduser{
+        font-size: 70px;
+    }
+  }
